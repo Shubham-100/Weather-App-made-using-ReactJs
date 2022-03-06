@@ -1,5 +1,5 @@
 Simple Weather application made in ReactJs library.
-User can enter a city or place inside the input box and they are shown the current weather of that location.
+User can enter a city or place inside the input box and user are shown the current weather of that location.
 
 Visit https://nervous-johnson-2f00a9.netlify.app/ to checkout the app
 
